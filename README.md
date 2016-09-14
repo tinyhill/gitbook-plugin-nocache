@@ -13,7 +13,7 @@ In your book.json, add this plugin:
 ```javascript
 {
     "plugins": [
-        "meta"
+        "nocache"
     ]
 }
 ```
